@@ -1,4 +1,4 @@
-This is a Power BI dashboard for viewing sales for 4 years(2017-2021).
+This is a fully interactive Power BI dashboard for viewing sales of 4 years(2017-2021).
 
 Steps followed to make this dashboard are:
 
@@ -10,3 +10,5 @@ Steps followed to make this dashboard are:
 5. Build dashboard with visualizations for required insights.
 
 ![](images/sales.png)
+![](images/sales2.png)
+![](images/sales3.png)
